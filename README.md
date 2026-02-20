@@ -17,3 +17,7 @@
 | **ArrayFire** | [arrayfire/arrayfire](https://github.com) | C++, CUDA, OpenCL | General Purpose Parallel Computing |
 | **CUDA** | [NVIDIA/cuda-samples](https://github.com) | **Programming Language/Platform** | Low-level Hardware Acceleration & Kernels |
 
+
+### ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-GPU-Accelerated-Frameworks&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-GPU-Accelerated-Frameworks&type=date&legend=top-left)
