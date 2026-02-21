@@ -1,7 +1,7 @@
 # Awesome-GPU-Accelerated-Frameworks
 
 
-## Top 20 GPU-Accelerated Frameworks
+## Top 30 GPU-Accelerated Frameworks
 
 
 | Framework / Project | GitHub Link | Primary Language | Use Case |
@@ -26,6 +26,16 @@
 | **Caffe** | [BVLC/caffe](https://github.com/BVLC/caffe) | C++ | Deep Learning |
 | **Theano** | [Theano/Theano](https://github.com/Theano/Theano) | Python | Deep Learning (discontinued) |
 | **Chainer** | [chainer/chainer](https://github.com/chainer/chainer) | Python | Deep Learning (discontinued) |
+| **wgpu** | [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) | Rust | Portable Graphics and GPGPU (WebGPU API implementation) |
+| **rust-gpu** | [EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu) | Rust | GPU Shader and Kernel Development in Rust |
+| **Rust-CUDA** | [Rust-CUDA/Rust-CUDA](https://github.com/Rust-CUDA/Rust-CUDA) | Rust | CUDA Programming in Rust (NVIDIA GPUs) |
+| **vulkano** | [vulkano-rs/vulkano](https://github.com/vulkano-rs/vulkano) | Rust | Low-level Vulkan Graphics API Wrapper |
+| **cudaz** | [cuda-api-wrappers/cudaz](https://github.com/cuda-api-wrappers/cudaz) | Zig | High-level CUDA interaction from Zig |
+| **GoCV (CUDA package)** | [gocv/gocv](https://github.com/gocv/gocv) | Go, C++ | GPU-accelerated Computer Vision |
+| **GoMLX** | [gomlx/gomlx](https://github.com/gomlx/gomlx) | Go | Accelerated Machine Learning |
+| **Arraymancer** | [mratsim/Arraymancer](https://github.com/mratsim/Arraymancer) | Nim | Tensor Library for Deep Learning and Numerical Computing (CUDA/OpenCL) |
+| **NimCUDA** | [PMunch/nimcuda](https://github.com/PMunch/nimcuda) | Nim | Nim Bindings for NVIDIA CUDA Libraries |
+| **GPUI** | [zed-industries/zed](https://github.com/zed-industries/zed) | Rust | GPU-accelerated UI framework |
 
 
 ### ✨ Star History
